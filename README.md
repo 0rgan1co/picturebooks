@@ -11,3 +11,11 @@ Usted es libre de:
 
 Esta licencia está aceptada para Obras Culturales Libres.
 El licenciador no puede revocar estas libertades mientras cumpla con los términos de la licencia.
+
+
+Bajo las condiciones siguientes:
+-------
+
+Reconocimiento — Debe reconocer adecuadamente la autoría, proporcionar un enlace a la licencia e indicar si se han realizado cambios<. Puede hacerlo de cualquier manera razonable, pero no de una manera que sugiera que tiene el apoyo del licenciador o lo recibe por el uso que hace.
+
+No hay restricciones adicionales — No puede aplicar términos legales o medidas tecnológicas que legalmente restrinjan realizar aquello que la licencia permite.
